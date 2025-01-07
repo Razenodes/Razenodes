@@ -1,4 +1,4 @@
-# 👋 Welcome to Razenodes GitHub! 
+#👋 Welcome to Razenodes GitHub! 
 
 🚀 **Premium Hosting for Minecraft & Discord**  
 We provide **paid, affordable hosting solutions** with the **best performance** in the industry.  
