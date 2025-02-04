@@ -16,3 +16,4 @@ We provide **paid, affordable hosting solutions** with the **best performance** 
 - Dedicated support to keep you running 24/7  
 
 🌐 Start hosting smarter with **Razenodes!**  
+https://discord.gg/razenodes
